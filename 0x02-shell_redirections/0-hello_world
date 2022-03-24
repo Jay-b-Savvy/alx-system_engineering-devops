@@ -1,3 +1,2 @@
 #!/bin/bash
-#A script for hello world
-echo "Hello, world"
+echo "Hello, world/n"
